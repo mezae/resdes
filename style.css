@@ -1,0 +1,17 @@
+/*
+Theme Name: Resilience Design
+Theme URI: http://www.resiliencedesign.org
+Description: WordPress and AngularJS.
+Version: 1.0
+Tags: WordPress, AngularJS, JavaScript, RESTful, API, Angular, Client Side Application, Single Page Application
+Author: Elmer Meza and Steven Frieson
+Author URI: http://www.resiliencedesign.org
+*/
+
+/* HTML 5*/
+header, article, footer, section, nav{
+	display:block;	
+}
+.clear{
+	clear:both;	
+}
